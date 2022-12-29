@@ -41,7 +41,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">15</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Over the course of a day—and again another day ten years later—the Ramsays and various friends plan a boating trip to the nearby lighthouse.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Set on an island off the Scottish coast, &lt;i&gt;To the Lighthouse&lt;/i&gt; minutely examines the fleeting impressions of a large cast of family, friends, lovers, and hangers-on. Who can we be, &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt; invites us to ask, if no one can ever know our hearts—if our hearts are unknowable even to our selves? To the Lighthouse remains one of the most important novels of the Modernist era, exquisitely observed by one of Modernism’s most gifted writers.&lt;/p&gt;
 			&lt;p&gt;The opening section of the novel follows the passage of a day with a thwarted objective: to go to the nearby lighthouse. The concluding section revisits this expedition a decade later, when so much is irretrievably changed, as a chance to glimpse interpersonal understanding and connection. The novel provides a brilliant example of stream-of-consciousness technique and raises questions that provoke us still, questions about whether children are the fullest realization of one’s posterity, how women artists are regarded socially, and how money and status enable—or close off—networks, relationships, and the dreams we hold most dear.&lt;/p&gt;
@@ -69,9 +69,6 @@
 		<dc:contributor id="transcriber-1">Delphine Lettau</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lettau, Delphine</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">Delphine Lettau</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Lettau, Delphine</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
@@ -83,16 +80,16 @@
 		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">L. A. Vermeer</dc:contributor>
-		<meta property="file-as" refines="#producer-2">Vermeer, L. A.</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://readingwithapencil.com</meta>
+		<meta property="file-as" refines="#producer-1">Vermeer, L. A.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://readingwithapencil.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
-		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://astart.ca</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">mrk</meta>
