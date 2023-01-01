@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/virginia-woolf/to-the-lighthouse</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-01-01T20:42:05Z</dc:date>
+		<meta property="dcterms:modified">2023-01-01T20:42:05Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,19 +41,19 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">15</meta>
-		<dc:description id="description">Over the course of a day—and again another day ten years later—the Ramsays and various friends plan a boating trip to the nearby lighthouse.</dc:description>
+		<dc:description id="description">Over the course of a day—and again another day ten years later—the Ramsays and their friends plan a boating trip to the nearby lighthouse.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Set on an island off the Scottish coast, &lt;i&gt;To the Lighthouse&lt;/i&gt; minutely examines the fleeting impressions of a large cast of family, friends, lovers, and hangers-on. Who can we be, &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt; invites us to ask, if no one can ever know our hearts—if our hearts are unknowable even to our selves? To the Lighthouse remains one of the most important novels of the Modernist era, exquisitely observed by one of Modernism’s most gifted writers.&lt;/p&gt;
-			&lt;p&gt;The opening section of the novel follows the passage of a day with a thwarted objective: to go to the nearby lighthouse. The concluding section revisits this expedition a decade later, when so much is irretrievably changed, as a chance to glimpse interpersonal understanding and connection. The novel provides a brilliant example of stream-of-consciousness technique and raises questions that provoke us still, questions about whether children are the fullest realization of one’s posterity, how women artists are regarded socially, and how money and status enable—or close off—networks, relationships, and the dreams we hold most dear.&lt;/p&gt;
-			&lt;p&gt;As masterful as its technique is, however, the lasting value of this novel for twenty-first-century readers may be its sharp representation of the emotional labour people—particularly women—perform to manage the needs and expectations of others. Woolf wrote in an age when women’s participation in society was tightly restricted by class norms and stultifying domesticity. Nearly a century later, scholars still have a great deal to say about Mrs. Ramsay, Lily Briscoe, and the tension between Mr. Ramsay and his son James.&lt;/p&gt;
-			&lt;p&gt;Woolf’s fifth novel, and one of her most successful books critically and commercially, &lt;i&gt;To the Lighthouse&lt;/i&gt; was originally published in 1927, simultaneously in England and the United States. Due to a quirk in the management and correction of the proofs, according to scholar Hans Walter Gabler, the two editions were “not identical, since in a significant number of instances Virginia Woolf marked up the first proofs differently” for her two publishers. The Standard Ebooks edition is based primarily on the Hogarth UK edition.&lt;/p&gt;
+			&lt;p&gt;Set on an island off the Scottish coast, &lt;i&gt;To the Lighthouse&lt;/i&gt; minutely examines the fleeting impressions of a large cast of family, friends, lovers, and hangers-on. Who can we be, &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt; invites us to ask, if no one can ever know our hearts—if they’re unknowable even to ourselves? &lt;i&gt;To the Lighthouse&lt;/i&gt; remains one of the most important Modernist novels, exquisitely composed by one of the most gifted writers of the Modernist movement.&lt;/p&gt;
+			&lt;p&gt;The opening section follows the passage of a day with a thwarted objective: to go to the nearby lighthouse. The concluding section revisits this expedition a decade later, when so much is irrevocably changed, as a chance to glimpse interpersonal understandings and connections. The novel provides a brilliant example of stream-of-consciousness writing, and raises questions that provoke us still: questions about whether children are the fullest realization of one’s posterity, how women artists are regarded socially, and how money and status enable—or close off—networks, relationships, and the dreams we hold most dear.&lt;/p&gt;
+			&lt;p&gt;As masterful as its technique is, however, the lasting value of this novel for twenty-first-century readers may be its sharp representation of the emotional labor that people—particularly women—perform in order to manage the needs and expectations of others. Woolf wrote in an age when women’s participation in society was tightly restricted by class norms and stultifying domesticity. Nearly a century later, scholars still have a great deal to say about Mrs. Ramsay, Lily Briscoe, and the tension between Mr. Ramsay and his son James.&lt;/p&gt;
+			&lt;p&gt;Woolf’s fifth novel, and one of her most successful books both critically and commercially, &lt;i&gt;To the Lighthouse&lt;/i&gt; was originally published in 1927, simultaneously in England and the United States. Due to a quirk in the management and correction of the proofs, according to scholar Hans Walter Gabler, the two editions were “not identical, since in a significant number of instances Virginia Woolf marked up the first proofs differently” for her two publishers. The Standard Ebooks edition is based primarily on the Hogarth UK edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190356</dc:source>
-		<dc:source>https://archive.org/details/in.ernet.dli.2015.176580/</dc:source>
-		<meta property="se:production-notes">Two editions were published in 1927: the US and UK which differ slightly. The Faded Page transcriptions seems to match closest to the Hogarth (UK Edition) with some small discrepancies.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.176580</dc:source>
+		<meta property="se:production-notes">Two editions were published in 1927: the US and UK which differ slightly. The Faded Page transcriptions seems to match closest to the Hogarth (UK Edition) with some small discrepancies. See https://books.openedition.org/obp/5468</meta>
+		<meta property="se:word-count">70136</meta>
+		<meta property="se:reading-ease.flesch">77.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/To_the_Lighthouse</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virginia-woolf_to-the-lighthouse</meta>
 		<dc:creator id="author">Virginia Woolf</dc:creator>
@@ -94,6 +94,9 @@
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
