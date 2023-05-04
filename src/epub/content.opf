@@ -57,7 +57,7 @@
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190356</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.176580</dc:source>
 		<meta property="se:production-notes">Two editions were published in 1927: the US and UK which differ slightly. The Faded Page transcriptions seems to match closest to the Hogarth (UK Edition) with some small discrepancies. See https://books.openedition.org/obp/5468</meta>
-		<meta property="se:word-count">70136</meta>
+		<meta property="se:word-count">70135</meta>
 		<meta property="se:reading-ease.flesch">77.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/To_the_Lighthouse</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virginia-woolf_to-the-lighthouse</meta>
