@@ -46,6 +46,9 @@
 		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">2</meta>
+		<meta id="collection-4" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
+		<meta property="collection-type" refines="#collection-4">series</meta>
+		<meta property="group-position" refines="#collection-4">9</meta>
 		<dc:description id="description">Over the course of a day—and again another day ten years later—the Ramsays and their friends plan a boating trip to the nearby lighthouse.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Set on an island off the Scottish coast, &lt;i&gt;To the Lighthouse&lt;/i&gt; minutely examines the fleeting impressions of a large cast of family, friends, lovers, and hangers-on. Who can we be, &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt; invites us to ask, if no one can ever know our hearts—if they’re unknowable even to ourselves? &lt;i&gt;To the Lighthouse&lt;/i&gt; remains one of the most important Modernist novels, exquisitely composed by one of the most gifted writers of the Modernist movement.&lt;/p&gt;
