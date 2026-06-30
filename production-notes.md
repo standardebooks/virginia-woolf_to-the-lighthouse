@@ -1,0 +1,1 @@
+Two editions were published in 1927: the US and UK which differ slightly. The Faded Page transcriptions seems to match closest to the Hogarth (UK Edition) with some small discrepancies. See https://books.openedition.org/obp/5468
