@@ -111,6 +111,7 @@
 		<dc:contributor id="producer-3">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-3">Cabal, Alex</meta>
 		<link href="https://alexcabal.com/" refines="#producer-3" rel="schema:url"/>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
